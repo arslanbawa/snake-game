@@ -1,0 +1,24 @@
+html, body {
+    margin: 10;
+    padding: 10;
+}
+
+.grid {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border: solid 10px rgb(0, 195, 255);
+}
+.grid div {
+    width: 20px;
+    height: 20px;
+    /* border: solid 1px orchid; */
+    
+}
+.snake {
+    background-color: rgb(128, 0, 0);
+}
+.apple {
+    background-color: rgb(255, 251, 0);
+}
