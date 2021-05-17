@@ -1,5 +1,6 @@
 # snake-game
 It's a Snake Game implemented using the JavaScript and HTML/CSS.
+![Image of Snake Game](https://github.com/arslanbawa/snake-game/blob/main/Screenshot.png)
 
 
 ## Game description
